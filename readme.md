@@ -12,9 +12,7 @@
 演示地址：[https://jianshen.gitapp.cn](https://jianshen.gitapp.cn)
 
 
-## 源码下载
 
-https://github.com/geeeeeeeek/java_jianshen
 
 
 ## 主要功能
